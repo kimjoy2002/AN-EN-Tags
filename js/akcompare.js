@@ -696,6 +696,7 @@
             case "en":$('#display-lang').text("English");break;
             case "cn":$('#display-lang').text("Chinese");break;
             case "jp":$('#display-lang').text("Japanese");break;
+            case "kr":$('#display-lang').text("Korea");break;
         }
         
         localStorage.setItem("gameRegion", reg);

@@ -4,21 +4,21 @@
         "ui_cn":"明日方舟公开招募计算器",
         "ui_en":"Arknights Recruitment Calculator",
         "ui_jp":"",
-        "ui_kr":""
+        "ui_kr":"명일방주 공개모집 계산기"
     },
     {
         "id":"topbar-1",
         "ui_cn":"明日方舟工具箱",
         "ui_en":"Arknights Toolbox",
         "ui_jp":"アークナイツツールボックス",
-        "ui_kr":""
+        "ui_kr":"명일방주 툴 박스"
     },
     {
         "id":"topbar-2",
         "ui_cn":"公开招募计算器",
         "ui_en":"Recruitment Calculator",
         "ui_jp":"募集電卓",
-        "ui_kr":""
+        "ui_kr":"공개모집 계산기"
     },
     {
         "id":"topbar-3",
@@ -53,167 +53,167 @@
         "ui_cn":"服务器",
         "ui_en":"Server",
         "ui_jp":"Server",
-        "ui_kr":""
+        "ui_kr":"서버"
     },
     {
         "id":"language-2",
         "ui_cn":"语言",
         "ui_en":"Language",
         "ui_jp":"Language",
-        "ui_kr":""
+        "ui_kr":"언어"
     },
     {
         "id":"selector-title",
         "ui_cn":"选择标签：",
         "ui_en":"Select the tags:",
         "ui_jp":"タグを選択してください :",
-        "ui_kr":""
+        "ui_kr":"태그를 선택해주세요."
     },
     {
         "id":"selector-categories-1",
         "ui_cn":"资质",
         "ui_en":"Qualification",
         "ui_jp":"ランク",
-        "ui_kr":""
+        "ui_kr":"랭크"
     },
     {
         "id":"selector-categories-2",
         "ui_cn":"位置",
         "ui_en":"Position",
         "ui_jp":"配置",
-        "ui_kr":""
+        "ui_kr":"배치"
     },
     {
         "id":"selector-categories-3",
         "ui_cn":"性别",
         "ui_en":"Gender",
         "ui_jp":"",
-        "ui_kr":""
+        "ui_kr":"성별"
     },
     {
         "id":"selector-categories-4",
         "ui_cn":"种类",
         "ui_en":"Class",
         "ui_jp":"職業",
-        "ui_kr":""
+        "ui_kr":"직업"
     },
     {
         "id":"selector-categories-5",
         "ui_cn":"词缀",
         "ui_en":"Affix",
         "ui_jp":"特徴",
-        "ui_kr":""
+        "ui_kr":"특징"
     },
     {
         "id":"selector-categories-6",
         "ui_cn":"明星",
         "ui_en":"Rarity",
         "ui_jp":"レアリティ",
-        "ui_kr":""
+        "ui_kr":"레어도"
     },
     {
         "id":"selector-categories-7",
         "ui_cn":"显示",
         "ui_en":"Show",
         "ui_jp":"",
-        "ui_kr":""
+        "ui_kr":"보이기"
     },
     {
         "id":"selector-name",
         "ui_cn":"名称",
         "ui_en":"Name",
         "ui_jp":"名前",
-        "ui_kr":""
+        "ui_kr":"이름"
     },
     {
         "id":"selector-image",
         "ui_cn":"图片",
         "ui_en":"Image",
         "ui_jp":"肖像",
-        "ui_kr":""
+        "ui_kr":"이미지"
     },
     {
         "id":"selector-size",
         "ui_cn":"图片尺寸",
         "ui_en":"Image Size",
         "ui_jp":"肖像のサイズ",
-        "ui_kr":""
+        "ui_kr":"이미지 크기"
     },
     {
         "id":"selector-selectedsize",
         "ui_cn":"选择: ",
         "ui_en":"Selected: ",
         "ui_jp":"",
-        "ui_kr":""
+        "ui_kr":"선택: "
     },
     {
         "id":"selector-clear",
         "ui_cn":"清空",
         "ui_en":"Clear",
         "ui_jp":"クリア",
-        "ui_kr":""
+        "ui_kr":"초기화"
     },
     {
         "id":"result-tags",
         "ui_cn":"Tags",
         "ui_en":"Tags",
         "ui_jp":"Tags",
-        "ui_kr":""
+        "ui_kr":"태그"
     },
     {
         "id":"result-characters",
         "ui_cn":"可能出现",
         "ui_en":"Character Possibility",
         "ui_jp":"キャラクター確率",
-        "ui_kr":""
+        "ui_kr":"가능한 캐릭터"
     },
     {
         "id":"footer-instructions-1",
         "ui_cn":"使用说明：",
         "ui_en":"How To Use ：",
         "ui_jp":"How To Use ：",
-        "ui_kr":""
+        "ui_kr":"사용법 ："
     },
     {
         "id":"footer-instructions-2",
         "ui_cn":"1. Change the 'Game Server' drop down on the top right according to your AK client region.",
         "ui_en":"1. Change the 'Game Server' drop down on the top right according to your AK client region.",
         "ui_jp":"1. Change the 'Game Server' drop down on the top right according to your AK client region.",
-        "ui_kr":""
+        "ui_kr":"1. 우측 상단에 있는 '게임 서버' 드롭다운을 당신의 명일방주 클라이언트에 맞춥니다."
     },
     {
         "id":"footer-instructions-3",
         "ui_cn":"2. Change the language of the user interface to your preference.",
         "ui_en":"2. Change the language of the user interface to your preference.",
         "ui_jp":"2. Change the language of the user interface to your preference.",
-        "ui_kr":""
+        "ui_kr":"2. 당신이 원하는 언어로 언어 설정을 바꿉니다."
     },
     {
         "id":"footer-instructions-4",
         "ui_cn":"3. Click on the tags, up to 6 tags.",
         "ui_en":"3. Click on the tags, up to 6 tags.",
         "ui_jp":"3. Click on the tags, up to 6 tags.",
-        "ui_kr":""
+        "ui_kr":"3. 태그를 최대 6개까지 클릭합니다."
     },
     {
         "id":"footer-instructions-5",
         "ui_cn":"4. You can hover on the tags to see the translation.",
         "ui_en":"4. You can hover on the tags to see the translation.",
         "ui_jp":"4. You can hover on the tags to see the translation.",
-        "ui_kr":""
+        "ui_kr":"4. 당신은 태그 위에 마우스를 올리는 것으로 번역을 볼 수 있습니다."
     },
     {
         "id":"footer-instructions-6",
         "ui_cn":"5. You can also hide or show the name and/or the image of the operators.",
         "ui_en":"5. You can also hide or show the name and/or the image of the operators.",
         "ui_jp":"5. You can also hide or show the name and/or the image of the operators.",
-        "ui_kr":""
+        "ui_kr":"5. 당신은 이름이나 이미지를 감추거나 보이게 할 수 도 있습니다."
     },
     {
         "id":"footer-instructions-7",
         "ui_cn":"6. Click 'clear' to reset all the tag selections.",
         "ui_en":"6. Click 'clear' to reset all the tag selections.",
         "ui_jp":"6. Click 'clear' to reset all the tag selections.",
-        "ui_kr":""
+        "ui_kr":"6. 초기화 버튼을 눌러서 모든 태그를 초기화시킵니다."
     }
 ]
